@@ -29,7 +29,6 @@
     </div>
     <!-- <p v-if="todoState.invalid" class="err-msg">{{ todoState.errMsg }}</p> -->
     <p v-show="todoState.invalid"  class="err-msg">{{ todoState.errMsg }}</p>
-    <p>{{ todo }}</p>
 </template>
 
 
